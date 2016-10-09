@@ -45,6 +45,7 @@
         <module>activemq-client</module>
         <module>cxf</module>
         <module>hystrix</module>
+        <module>dapeng</module>
     </modules>
 
     <dependencies>
