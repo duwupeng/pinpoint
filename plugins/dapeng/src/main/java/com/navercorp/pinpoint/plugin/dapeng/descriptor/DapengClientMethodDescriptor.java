@@ -59,7 +59,7 @@ public class DapengClientMethodDescriptor implements MethodDescriptor {
 
     @Override
     public String getFullName() {
-        return com.navercorp.pinpoint.plugin.thrift.descriptor.ThriftAsyncClientMethodDescriptor.class.getName();
+        return DapengClientMethodDescriptor .class.getName();
     }
 
     @Override

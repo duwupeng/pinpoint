@@ -20,8 +20,6 @@ import static com.navercorp.pinpoint.plugin.thrift.ThriftScope.THRIFT_SERVER_SCO
 
 import com.navercorp.pinpoint.bootstrap.interceptor.scope.InterceptorScope;
 import com.navercorp.pinpoint.plugin.thrift.field.getter.TProtocolFieldGetter;
-import org.apache.thrift.ProcessFunction;
-import org.apache.thrift.protocol.TProtocol;
 
 import com.navercorp.pinpoint.bootstrap.interceptor.AroundInterceptor;
 import com.navercorp.pinpoint.bootstrap.interceptor.annotation.Scope;
