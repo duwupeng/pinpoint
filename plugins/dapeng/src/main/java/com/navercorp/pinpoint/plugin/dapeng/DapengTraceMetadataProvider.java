@@ -4,7 +4,7 @@ import com.navercorp.pinpoint.common.trace.TraceMetadataProvider;
 import com.navercorp.pinpoint.common.trace.TraceMetadataSetupContext;
 
 /**
- * @author Jinkai.Ma
+ * @author duwupeng
  */
 public class DapengTraceMetadataProvider implements TraceMetadataProvider {
     @Override

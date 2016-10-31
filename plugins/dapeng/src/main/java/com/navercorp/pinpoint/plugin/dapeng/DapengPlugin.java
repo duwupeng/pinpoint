@@ -12,7 +12,7 @@ import com.navercorp.pinpoint.bootstrap.plugin.ProfilerPluginSetupContext;
 import java.security.ProtectionDomain;
 
 /**
- * @author Jinkai.Ma
+ * @author duwupeng
  */
 public class DapengPlugin implements ProfilerPlugin, TransformTemplateAware {
 

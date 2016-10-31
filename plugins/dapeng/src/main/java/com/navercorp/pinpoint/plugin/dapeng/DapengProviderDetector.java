@@ -19,7 +19,7 @@ import com.navercorp.pinpoint.bootstrap.resolver.ConditionProvider;
 import com.navercorp.pinpoint.common.trace.ServiceType;
 
 /**
- * @author Jinkai.Ma
+ * @author duwupeng
  */
 public final class DapengProviderDetector implements ApplicationTypeDetector {
     @Override

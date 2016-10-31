@@ -8,7 +8,7 @@ import com.navercorp.pinpoint.common.trace.ServiceTypeFactory;
 import static com.navercorp.pinpoint.common.trace.ServiceTypeProperty.RECORD_STATISTICS;
 
 /**
- * @author Jinkai.Ma
+ * @author duwupeng
  */
 public interface DapengConstants {
 
